@@ -1,6 +1,6 @@
-<img src="http://bitcore.io/css/images/module-mnemonic.png" alt="bitcore mnemonics" height="35">
+
 BIP39 Mnemonics for bitcore
-=======
+
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-mnemonic.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-mnemonic)
 [![Build Status](https://img.shields.io/travis/bitpay/bitcore-mnemonic.svg?branch=master&style=flat-square)](https://travis-ci.org/bitpay/bitcore-mnemonic)
